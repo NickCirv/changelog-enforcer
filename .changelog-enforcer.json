@@ -1,0 +1,23 @@
+{
+  "changelog": "CHANGELOG.md",
+  "ignore": [
+    "docs/",
+    "*.test.js",
+    "*.spec.js",
+    ".github/",
+    "README.md",
+    "*.md",
+    "package-lock.json",
+    "yarn.lock",
+    "pnpm-lock.yaml",
+    ".gitignore",
+    ".editorconfig",
+    "LICENSE",
+    "test/",
+    "tests/",
+    "__tests__/"
+  ],
+  "format": "keepachangelog",
+  "require_version_bump": false,
+  "allow_bypass": true
+}

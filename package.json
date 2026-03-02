@@ -1,0 +1,33 @@
+{
+  "name": "changelog-enforcer",
+  "version": "1.0.0",
+  "description": "Enforce changelog updates. Block commits when code changes without a CHANGELOG entry. Because your users deserve to know.",
+  "type": "module",
+  "bin": {
+    "changelog-enforcer": "./index.js",
+    "ce": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "changelog",
+    "git",
+    "developer-tools",
+    "hooks",
+    "quality",
+    "pre-commit",
+    "keep-a-changelog",
+    "enforce"
+  ],
+  "author": "NickCirv",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/changelog-enforcer.git"
+  },
+  "homepage": "https://github.com/NickCirv/changelog-enforcer#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/changelog-enforcer/issues"
+  }
+}
