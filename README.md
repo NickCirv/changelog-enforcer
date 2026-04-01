@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # changelog-enforcer
 
 > Enforce changelog updates. Block commits when code changes without documentation. Ships matter.
