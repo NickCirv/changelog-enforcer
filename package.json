@@ -21,6 +21,9 @@
     "enforce"
   ],
   "author": "NickCirv",
+  "scripts": {
+    "test": "node --test"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
